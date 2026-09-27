@@ -1,116 +1,48 @@
-<div align="center">
+# Hi, I'm Nazhifa Kirana Mulia Nugraha
 
-<img src="./nazhifa-profile.webp" width="150" alt="Nazhifa Nugraha"/>
+**Data Scientist & Machine Learning Enthusiast**
 
-# Hi, I'm Nazhifa Nugraha 👋
-
-### Data Scientist · Machine Learning Enthusiast
-
-**My GitHub profile, where I share projects and work in Data Science, Machine Learning, and AI.**
-
-[ LinkedIn ] · [ Portfolio ] · [ Email ]
-
-</div>
+I'm interested in building data-driven solutions through machine learning, deep learning, and statistical modeling. I enjoy working across the process from data exploration and model development to deploying practical applications.
 
 ---
 
-## ✦ About Me
+## Selected Projects
 
-I'm interested in turning data into **models, insights, and practical solutions**.
+### 01 — Credit Score Classification
 
-My work focuses on **Machine Learning, Deep Learning, Data Analysis, and Model Deployment** — from exploring and preparing data to building, evaluating, and deploying machine learning models.
+A machine learning system that predicts customer credit score categories based on financial and credit history data. The project covers data preprocessing, feature engineering, model experimentation, and deployment using AWS.
 
----
+**Tech:** Python · Scikit-learn · MLflow · Streamlit · AWS
 
-## 🚀 Featured Projects
+[View Project →](https://github.com/nazhifakirana/CreditClassification)
 
-### 01 · Credit Score Classification
+### 02 — Predicting Cognitive Performance
 
-> **Machine Learning · Model Deployment · Individual**
+A machine learning project exploring whether lifestyle and behavioral factors can be used to predict cognitive performance. The project includes data preprocessing, feature engineering, model experimentation, and evaluation.
 
-A machine learning system that predicts customer credit score categories — **Poor, Standard, or Good** — based on financial and credit history data.
+**Tech:** Python · Pandas · Scikit-learn · XGBoost
 
-**Tech Stack**
+[View Project →](https://github.com/nazhifakirana/cognitive-performance-prediction)
 
-`Python` `Scikit-learn` `MLflow` `Streamlit` `AWS`
+### 03 — Autoencoder-Based Image Dimension Reduction
 
-**Result:** 73.4% accuracy · 0.735 F1 Score · 3/3 deployment tests passed
+A deep learning project that uses an autoencoder to compress 28×28 image data from 784 dimensions into a 128-dimensional latent representation while preserving key visual information.
 
-**[View Project →](https://github.com/nazhifakirana/CreditClassification)**
+**Tech:** Python · NumPy · TensorFlow · Keras
 
----
-
-### 02 · Predicting Cognitive Performance
-
-> **Machine Learning · Group Project**
-
-Can lifestyle and behavioral factors be used to predict an individual's cognitive performance?
-
-This project explores **84,000 records and 11 features**, covering preprocessing, feature engineering, model experimentation, and evaluation.
-
-**Best Model:** Stacking Regressor
-
-**R² 0.985** · **MSE 7.929** · **MAE 1.776**
-
-**Tech Stack**
-
-`Python` `Pandas` `Scikit-learn` `XGBoost`
-
-**[View Project →](https://github.com/nazhifakirana/cognitive-performance-prediction)**
+[View Project →](https://github.com/nazhifakirana/autoencoder-image-reconstruction)
 
 ---
 
-### 03 · Autoencoder-Based Image Dimension Reduction
+## Skills
 
-> **Deep Learning · Individual Project**
-
-A deep learning project using an **autoencoder** to compress 28×28 image data from **784 dimensions into a 128-dimensional latent representation** while preserving important visual information.
-
-**Tech Stack**
-
-`Python` `NumPy` `TensorFlow` `Keras`
-
-**Result:** Optimized V2 achieved an average **SSIM of 0.8091**, compared with 0.7225 for the baseline.
-
-**[View Project →](https://github.com/nazhifakirana/autoencoder-image-reconstruction)**
+**Programming:** Python · SQL · R
+**Machine Learning:** Scikit-learn · XGBoost · Predictive Modeling
+**Deep Learning:** TensorFlow · Keras
+**Development:** Git · GitHub · Docker · AWS · Streamlit · FastAPI · MLflow
 
 ---
 
-## 🧰 Tech Stack
+## Connect
 
-**Languages**
-
-`Python` · `SQL` · `R`
-
-**Machine Learning & AI**
-
-`Scikit-learn` · `XGBoost` · `TensorFlow` · `Keras`
-
-**Data**
-
-`Pandas` · `Data Analysis` · `Data Visualization` · `Statistics`
-
-**Development & Deployment**
-
-`Git` · `GitHub` · `Docker` · `AWS` · `Streamlit` · `FastAPI` · `MLflow`
-
----
-
-## 📌 Areas of Interest
-
-📊 Data Analysis & Visualization
-🧠 Machine Learning
-🤖 Deep Learning
-📈 Statistical Modeling
-☁️ Model Deployment
-🔧 Data & ML Development
-
----
-
-<div align="center">
-
-### Building with data, one project at a time.
-
-**Thanks for visiting my profile!**
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/nazhifa-kirana-mulia-nugraha-1464b1387/) · [Portfolio](https://clownfish-wcjg8z.my.canva.site/nazhifapage) · [Email](mailto:nazhifakirana1@gmail.com)
